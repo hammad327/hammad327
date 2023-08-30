@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad327&label=Profile%20views&color=0e75b6&style=flat" alt="hammad327" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammad327" alt="hammad327" /></a> </p>
-
 - 🔭 I’m currently working on **AutoYard Reservation System**
 
 - 🌱 I’m currently learning **JavaScript, React**
@@ -28,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad327&show_icons=true&locale=en&layout=compact" alt="hammad327" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad327&show_icons=true&locale=en" alt="hammad327" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad327&" alt="hammad327" /></p>
